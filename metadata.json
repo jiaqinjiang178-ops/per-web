@@ -1,0 +1,6 @@
+{
+  "name": "江佳琴个人主页",
+  "description": "江佳琴的个人简历与学术主页，简约优雅，双语支持，米白加浅蓝配色。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
